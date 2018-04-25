@@ -1,0 +1,17 @@
+{
+  "name": "@seedom-io/seedom-resolver",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seedom-io/seedom-resolver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seedom-io/seedom-resolver/issues"
+  },
+  "scripts": {
+    "publish": "npm publish --access public"
+  }
+}

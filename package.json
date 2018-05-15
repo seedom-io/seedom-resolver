@@ -1,6 +1,6 @@
 {
   "name": "@seedom-io/seedom-resolver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "repository": {
     "type": "git",
@@ -12,6 +12,6 @@
     "url": "https://github.com/seedom-io/seedom-resolver/issues"
   },
   "scripts": {
-    "publish": "npm publish --access public"
+    "push": "npm publish --access public"
   }
 }
